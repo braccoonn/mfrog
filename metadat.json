@@ -1,0 +1,26 @@
+{
+    "name": "Meme Frog",                   // Nama token
+    "symbol": "MFROG",                    // Simbol token
+    "description": "A meme token on Solana featuring a frog.", // Deskripsi
+    "image": "https://drive.google.com/file/d/1T04dsmexN2HppJ1XgkSAfGLbJOpl82wQ/view?usp=drivesdk", // URL gambar token
+    "attributes": [                       // Atribut tambahan (opsional)
+      {
+        "trait_type": "Type",
+        "value": "Meme"
+      },
+      {
+        "trait_type": "Network",
+        "value": "Solana"
+      }
+    ],
+    "properties": {                       // Informasi tambahan (opsional)
+      "files": [
+        {
+          "uri": "https://yourdomain.com/images/mfrog.png",
+          "type": "image/png"            // Tipe file gambar (png, jpg, dll.)
+        }
+      ],
+      "category": "image"
+    }
+  }
+  
